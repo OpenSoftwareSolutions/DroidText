@@ -4,7 +4,7 @@
    <name>DroidText</name>
    <groupId>com.pdfreporting</groupId>
    <artifactId>droidtext</artifactId>
-   <version>1.0.0</version>
+   <version>1.0.1</version>
    <description>This project is a port of the itext library version 2.1.7 (last LGPL version) for Android.Parts of the following open source projects are combined to create the port: iText 2.1.7: http://sourceforge.net/projects/itext/, Apache Harmony: http://harmony.apache.org/, BouncyCastle: http://www.bouncycastle.org/</description>
    <url>https://github.com/OpenSoftwareSolutions/DroidText</url>
    <licenses>
